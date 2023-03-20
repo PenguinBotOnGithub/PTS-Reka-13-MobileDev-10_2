@@ -1,0 +1,360 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PTS Produk Elektronik</string>
+    <string name="poster_desc">Product Image</string>
+    <string name="search">Search</string>
+    <string name="back_button_desc">Back Button</string>
+    <string name="desc">Description</string>
+    <string-array name="item_name">
+        <item>Robot M205 Wireless Mouse Optical 2.4G &amp; Tombol Sakelar DPI - Robot M205</item>
+        <item>Rexus Mouse Wireless Gaming Avenger 110 - Perak</item>
+        <item>Wacom One small CTL-472 pen tablet wacom</item>
+        <item>Huion H640P Inspiroy Graphic Digital Tablet USB Signature Drawing Pad</item>
+        <item>Monitor LED LENOVO L24i–30 IPS 75Hz FHD HDMI VGA Eye Care Technology – D24–20</item>
+        <item>RAM HYNIX SODIMM DDR4 8GB ORIGINAL GARANSI LIFETIME RAM HYNIX LAPTOP</item>
+        <item tools:ignore="Typos">ACOME Wired In-ear Headset Gaming Dual Microphone Garansi 1 Thn AE100</item>
+        <item>Philips TAH2005 Black Over-Ear Wired Headphone / TAH 2005 / TAH2005BK</item>
+        <item>Headphone bluetooth JBL P951 pure bass</item>
+        <item>GIGABYTE RADEON RX 6600 XT GAMING OC PRO 8G GDDR6 128-BIT</item>
+    </string-array>
+    <string-array name="item_prices">
+        <item>Rp43.000</item>
+        <item>Rp95.000</item>
+        <item>Rp599.000</item>
+        <item>Rp489.000</item>
+        <item>Rp1.435.000</item>
+        <item>Rp278.000</item>
+        <item>Rp220.000</item>
+        <item>Rp259.000</item>
+        <item>Rp110.000</item>
+        <item>Rp4.299.000</item>
+    </string-array>
+    <integer-array name="item_posters">
+        <item>@drawable/robot_mouse</item>
+        <item>@drawable/rexus_mouse</item>
+        <item>@drawable/wacom_tablet</item>
+        <item>@drawable/huion_tablet</item>
+        <item>@drawable/lenovo_monitor</item>
+        <item>@drawable/hynix_ram</item>
+        <item>@drawable/acome_earphone</item>
+        <item>@drawable/phillips_headphone</item>
+        <item>@drawable/jbl_headphone</item>
+        <item>@drawable/radeon_gpu</item>
+    </integer-array>
+    <string-array name="item_desc">
+        <item>Robot M205 JKT = Kirim dari Jakarta, Sabtu Minggu &amp; Hari Raya juga tetap kirim
+\nRobot M205 = Kirim dari Toko Cabang\n
+\n
+Semua barang di etalase ready dan stok diupdate setiap hari. Silakan dipesan saja.\n
+\n
+Terima kasih sudah mengunjungi Liem. \nTahukah Anda bahwa kami adalah distributor dengan penjualan Powerbank dan ACC HP Terlaris. \nHal ini penting karena power bank memilki shelf life terbatas (barang akan mengalami degradasi jika tidak digunakan). \nKarena volume penjualan kami yang besar shelf time barang kami sangat rendah.\n
+\n
+Kami juga memiliki sistem di mana barang dikirim langsung dari pabrik sesegera mungkin setelah barang jadi memastikan pembelian dari kami adalah kualitas terbaik yang akan Anda dapatkan di pasar.\n
+\n
+Kami menjamin semua barang kami adalah 100% original.\n
+\n
+Spesifikasi :\n
+ - Type : M205\n
+ - Colour : Black\n
+ - Number Of Keys: 4\n
+ - Size : 99.8*60.5*32 mm\n
+ - Mouse Weight : 45.5 gr\n
+ - DPI : 800-1200-1600 DPI\n
+ - Report Rate : 125Hz\n
+ - Battery Specifications : 1x AA (not included)\n
+\n
+Fitur :\n
+1. Desain Ergonomis nyaman di tangan.\n
+2. Kecil dan portable dapat di bawa kemana saja.\n
+3. Terdapat Tombol Sakelar Sensor optik hingga 1600 DPI, 3 tingkat DPI yang bisa di atur 800-1200-1600 DPI.\n
+4. Wireless Connection 2.4G, Penggunaan tetap stabil dan efektif hingga jangkauan 10 meter.\n
+5. Terdapat Power Switch daya dapat dimatikan saat tidak di gunakan.\n
+6. Plug &amp; Play, pasang dan pakai.</item>
+        <item>Perfect Control in Superb Design\n
+\n
+Rexus Wireless Mouse Xierra RX110 adalah wireless mouse dengan desain yang elegan, berkelas, dan punya beragam fitur fungsional. Mouse ini dilengkapi dengan komponen terbaik, seperti switch Huano dengan daya tahan hingga 5 juta klik, chipset Pixart PAW3205. Sumber tenaga yang berupa baterai AA memudahkan saat penggantian sehingga sangat praktis.\n
+\n
+•Mouse nirkabel yang praktis dan berdaya jangkau luas.\n
+•Ambidextrous design, memungkinkan untuk digunakan untuk tangan kiri dan kanan.\n
+•Tingkatan DPI 1600, dengan presisi yang tinggi.\n
+•Menggunakan tombol Huano dengan durabilitas hingga 5.000.000 klik.\n
+•Material terbuat dari plastik ABS berkualitas.\n
+\n
+Spesifikasi\n
+Akselerasi: 10G\n
+Kecepatan rata-rata per frame: 4000 Fps\n
+Kecepatan gerak: 30 Ips\n
+Resolusi: 1600 DPI\n
+Tingkat polling: 125Hz\n
+Jumlah tombol: 6 tombol\n
+Jangkauan wireless: 10 – 15m\n
+Dimensi: 120 x 65 x 36mm\n
+Berat: N/A\n
+Jenis baterai: AA (1 buah)\n
+Kapasitas baterai: 3,5V\n
+Platform: Win7/ Win8/ Win 10/ Window Vista/ Window XP\n
+Fitur Unggulan\n
+\n
+Baterai AA yang Praktis\n
+Mouse ini menggunakan sumber daya berupa satu buah baterai tipe AA 3,5V yang praktis dan mudah diperoleh. Baterai AA juga mudah diganti sehingga memungkinkan mouse ini dibawa ke manapun.\n
+\n
+Tombol Huano dengan Daya Tahan 5 Juta Klik\n
+Rexus Xierra RX110 menggunakan tombol yang biasa digunakan oleh beberapa tipe mouse gaming. Tombol Huano yang digunakan mouse ini mempunyai durabilitas hingga 5 juta klik.\n
+\n
+Chipset PIXART PAW3205\n
+Mouse ini dilengkapi dengan chipset PIXART PAW3205 yang efektif dalam penggunaan energi dan memiliki tingkat presisi yang tinggi.\n
+\n
+Isi Kemasan\n
+ -1 buah Wireless Mouse Rexus Xierra X110\n
+ -1 buah pouch\n
+ -Kartu garansi</item>
+        <item>pilih opsi varian sesuai kebutuhan anda :\n
+garansi resmi 1 tahun tukar baru !\n
+\n
+kami menyediakan 2 opsi varian :\n
+\n
+paket unit only :\n
+\n
+* include cadangan 3 batang felt standart nibs + nib remover ring\n
+* tablet\n
+* pen\n
+* kabel usb\n
+* manual sheet\n
+* packing aman dengan bubble warp (khusus ekspedisi)\n
+\n
+\n
+paket lengkap :\n
+* softcase\n
+* Antigores khusus wacom kamu (tulis dicatatan jika ingin dipasangkan langsung)\n
+* drawing glove\n
+* include cadangan 3 batang felt standar nibs + nib remover ring\n
+* tablet\n
+* pen\n
+* kabel usb\n
+* manual sheet\n
+* packing aman dengan bubble warp\n
+* 1pc Hard Felt nib (senilai Rp 45.000/batang)\n
+\n
+ciri-ciri hard felt nib itu warna abu doff ya guys, tesktur lebih keset , hanya bisa didapat di intuos Pro series.\n
+            Product Type Tablet with pressure-sensitive, cordless, battery-free pen.\n
+Model Number Small: CTL-472 , Medium : CTL672\n
+\n
+Size Small: 210 x 146 x 8.7 mm / 8.3 x 5.7 x 0.3 in\n
+Active Area Small: 152.0 x 95.0 mm (6.0 x 3.7 in)\n
+Expresskeys No\n
+Pen Pressure Levels 2048\n
+Multi-touch No\n
+Wireless Support No\n
+Weight Small Tablet: 251g; Pen: 9g\n
+Resolution 2540 lpi\n
+Pen Pressure-sensitive, cordless, battery-free pen. (LP-190K)\n
+Cable Included Yes (Micro USB to USB)\n
+System Requirements PC: Windows 7 or later,\n
+Mac: OS X 10.10 or later,\n
+Standard USB-A port</item>
+        <item>
+The best partner to bring out our potential.\n
+Huion H640P comes with a battery-free EMR pen which makes it perfect for use. 8192 levels of pen pressure, make stroke lines and colour shades more natural and smooth, for precise expression of inspiration and creativity.\n
+\n
+Specification\n
+ - Active Area : 6.3 x 3.9 inch\n
+ - Report Rate : 233 PPS\n
+ - Resolution : 5080LPI\n
+ - Pen Pressure : 8192 Levels\n
+ - Express Keys : 6\n
+ - OS Support : Windows7/8/8.1/10 and Mac 10.11.0 or later versions, Android OS\n
+\n
+Package Included:\n
+ - 1 pcs Huion H640P Graphic Drawing Tablet\n
+ - 1 pcs Battery-free Pen\n
+ - 1 pcs Micro USB Cable\n
+ - 1 pcs Pen Holder(8 Nibs inside and Integrated with Clip)\n
+ - 1 pcs Quick Start Guide\n
+ - 1 pcs OTG connector (Type C)</item>
+        <item>Brand Type : L24I-30
+Panel Size(Inch) : 24"
+Panel Type : IPS
+Panel Resolution : 1920X1080
+Aspect Ratio : 16:9
+
+Brightness (cd/㎡) : 250
+Refresh Rate(hz) : 75
+Response Time (ms) : 4
+Sync : FreeSync
+Connectivity : HDMI 1.4 x1 + D-Sub x1
+Speaker : no
+
+Audio port : 1x 3.5mm Audio Out
+VESA mounting (mm) : 100x100
+Ergonomic Stand : No
+
+Panel bit : 8 bits (6 bits + FRC)
+HDR : No
+NTSC (%) : 72%
+SRGB (%) : -
+Adobe RGB (%) : -
+DCI-P3 (%) : -
+
+Power Cons (watt) : 17.5
+Product Weight (nw/kg) : 3.82
+Box Dimension (cm) : 63 x 42 x 13
+Volume Weight (kg) : 7
+
+Brand Type : Lenovo D24-20
+Panel Size(Inch) : 23.8
+Panel Type : VA
+Panel Resolution : 1920x1080
+Aspect Ratio : 16:9
+
+Brightness (cd/㎡) : 250
+Refresh Rate(hz) : 75
+Response Time (ms) : 4
+Sync : AMD FreeSync™
+Connectivity : HDMI 1.4; VGA
+Speaker : No
+
+Audio port : Yes 3.5mm
+VESA mounting (mm) : 100x100
+Ergonomic Stand : Tilt -5° / 22°
+
+Panel bit : 8
+HDR : -
+NTSC (%) : 72
+SRGB (%) : -
+Adobe RGB (%) : -
+DCI-P3 (%) : -
+
+Power Cons (watt) : 23W
+Product Weight (nw/kg) : 2.70
+Box Dimension (cm) :
+Volume Weight (kg) :7
+
+Include:
+Power Cable
+HDMI Cable
+
+
+Warranty : 3 Years (Term &amp; Conditions, please read in the "Catatan pelapak")</item>
+        <item>SEMUA PESANAN YANG SUDAH MASUK TIDAK BISA DIBATALKAN DENGAN ALASAN APAPUN SETELAH PESANAN DIPROSES !!\n
+\n
+READY STOCK !! \nGARANSI TUKAR BARU HYNIX DDR4 8GB PC4 2666 Mhz UNTUK RAM SODIMM LIFETIME WARRANTY \nSelamat Datang di ALNET INDONESIA Silahkan Di Order ya Barang Baru Kualitas terjamin. Bergaransi Apabila Barang Rusak bisa langsung Retur, kami ganti dengan yang (Baru)\n * Free Bublewarp &amp; Plastik Hitam 2 Lapisan sehingga aman pengiriman * Perkiraan Berat Sudah di hitung Termasuk Packing yang aman. * Order Sebelum Jam 6 malam agar barang di kirim hari ini juga. \nALNET INDONESIA</item>
+        <item>Keep Stylish with Dark Green Metalic Colour\n
+\n
+Suara Langkah &amp; Posisi Musuh Terdengar dengan Jelas\n
+\n
+10mm Dynamic Unit\n
+ - HD Quality &amp; Surround Sound\n
+\n
+Dual Microphone\n
+ - Clearly Sound, Clearly Voice\n
+\n
+Desain Siku\n
+ - Nyaman Main Games Seharian\n
+\n
+3 Earbuds Option\n
+ - Get The Best Fit For Your Ear\n
+\n
+Removable Microphone\n
+ - Dapat Dilepas Pasang Sesuai Kebutuhan\n
+\n
+Fully Compatible with Gaming Devices\n
+ - Kompatibel dengan Nintendo Switch, Games Mobile, Xbox One, PS4 Pro, PS4, &amp; PC\n
+\n
+Ketentuan Garansi:\n
+1. Garansi 1 Tahun Tukar Baru Untuk Produk Tidak Berlaku Jika:\n
+A. Tidak Ditemukan Adanya Kerusakan\n
+B. Kerusakan Disebabkan Oleh Faktor Luar/Di Luar Kuasa\n
+C. Kerusakan Akibat Dari Kesalahan Pemakaian (Terjatuh, Tergores, Ternoda, Pecah, Terkena Air, Dll.)\n
+2. Syarat Klaim:\n
+A. Unit Masih Dalam Masa Garansi Dan Sesuai Dengan Kebijakan Garansi Yang Telah Ditetapkan\n
+B. Kelengkapan Dari Unit Harus Disertai Secara Lengkap (Dus, Kabel Charger, Buku Manual, Kartu Garansi, Dll)\n
+C. Dilengkapi Dengan Nota Pembelian (Print Out History Pembelian) Dan Informasi Kerusakan Unit\n
+\n*Note: Hubungi Customer Service Kami Melalui Layanan Chat, Untuk Mengetahui Prosedur Klaim Retur Atau Garansi Lebih Lanjut.</item>
+        <item>This is your time\n
+\n
+From your favourite tunes to the latest podcasts, these simple over-ear headphones offer a comfortable fit and clear sound. Perfect for everyday use, the 2 m cable is the ideal length for connecting to your favourite devices.\n
+\n
+ - Soft comfy cushions\n
+ - 40 mm drivers\n
+ - Lightweight headband\n
+ - 2 m headphone cable\n
+\n
+Get your sounds on\n
+These wired over-ear headphones let you listen in comfort for as long as you like. Powerful 40 mm drivers give you crisp, clear sound. The over-ear fit ensures good passive noise isolation and others wont hear what youre listening to.\n
+\n
+All-day ease. Everyday comfort\n
+The cushioned adjustable headband fits any head and the soft ear-cup cushions are great for long listening sessions. Theres no battery, so no limit to your play time. Ideal when youre binging on the latest podcasts.\n
+\n
+Plug in to your favourite devices\n
+The 2 m headphone cable is perfect for connecting to a laptop or tablet. If you are on the go, this cable lets you keep your device safely stowed in a bag or pocket while you listen hands-free.\n
+\n
+Technical Specifications:\n
+\n
+Sound\n
+Impedance: 16 Ohm\n
+Speaker diameter: 40 mm\n
+Sensitivity: 85 dB (1k Hz)\n
+Frequency range: 20–20,000 Hz\n
+Maximum power input: 50 mW\n
+Driver type: Dynamic\n
+\n
+Connectivity\n
+Cable length: 2 m\n
+Connector: 3.5 mm\n
+\n
+Design\n
+Colour: Black\n
+Wearing style: Headband\n
+Ear fitting: Over-ear\n
+Earcup type: Closed-back\n
+Ear coupling material: Synthetic leather\n
+\n
+Accessories\n
+Included adapters: 3.5-6.3 mm adapter plug</item>
+        <item>READY STOCK !!\n
+SILAHKAN LANGSUNG DIPESAN KAK !!\n
+\n
+SUARA MANTAB,GA USA DI RAGUKAN LAGI.\n
+\n
+TERSEDIA 3 VARIAN WARNA\n
+ -PUTIH\n
+ - ABU2\n
+ -HITAM\n
+\n
+\n
+MOHON MASUKAN WARNA DALAM KETERANGAN YA KAK :)\n
+APABILA TIDAK MASUKAN / ADA SALAH SATU WARNA YANG DIPILIH HABIS / KOSONG . MAKA KAMI KIRIM WARNA YG TERSEDIA YA KAK :)</item>
+        <item>MOHON DIPERHATIKAN!\n
+BARANG YANG SUDAH DIBELI DAN SESUAI DENGAN NOTA PEMBELIAN (SESUAI PESANAN) TIDAK DAPAT DI CANCEL ATAU DIKEMBALIKAN DENGAN ALASAN APAPUN!\n
+\n
+GARANSI 2 BULAN UNTUK MINING\n
+\n
+UNTUK SPESIFIKASI LENGKAP BISA CEK DI WEB NYA.\n
+\n
+Spesifikasi :\n
+Graphics Processing : Radeon™ RX 6600 XT\n
+Core Clock : Boost Clock* : up to 2607 MHz (Reference card: 2589 MHz)\n
+Game Clock* : up to 2428 MHz (Reference card: 2359 MHz)\n
+Stream Processors : 2048\n
+Memory Clock : 16000 MHz\n
+Memory Size : 8 GB\n
+Memory Type : GDDR6\n
+Memory Bus : 128 bit\n
+Memory Bandwidth (GB/sec) : 256 GB/s\n
+Card Bus : PCI-E 4.0 x 8\n
+Digital max resolution : 7680x4320\n
+Multi-view : 4\n
+Card size : L=282 W=115 H=50 mm\n
+PCB Form : ATX\n
+DirectX : 12 Ultimate\n
+OpenGL : 4.6\n
+Recommended PSU : 500W\n
+Power Connectors : 8 pin*1\n
+Output : DisplayPort 1.4a *2, HDMI 2.1 *2\n
+\n
+Note :\n
+* “Boost Clock” is the maximum frequency achievable on the GPU running a bursty workload. Boost clock achievability, frequency, and sustainability will vary based on several factors, including but not limited to: thermal conditions and variation in applications and workloads.\n
+* “Game Clock” is the expected GPU clock when running typical gaming applications, set to typical TGP (Total Graphics Power). Actual individual game clock results may vary."\n
+\n
+TANYAKAN STOCK TERLEBIH DAHULU SEBELUM ORDER!</item>
+    </string-array>
+</resources>
